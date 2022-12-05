@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    margin: 8vh;
+}
+
+.formTable {
+    width: 50vw;
+    height: 35vh;
+}
+
+
+.formTable thead {
+    background-color: #E8EDF9;
+}
+
+.formTable tbody {
+    background-color: #EDF5F9;
+}
+
+.formTable tfoot {
+    background-color: #E8EDF9;
+}
+
+
+.formTable td {
+    padding: 1vh;
+}
+
+.formTable th {
+    font-size: x-large;
+    padding-left: 1vh;
+    color: #07597E;
+}
+
+.loginButton {
+    text-align: right;
+}

@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+.content{
+    padding: 2vw;
+}
+
+.form th, .form td{
+    padding: 0.5vw;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+    align-items: center;
+    vertical-align: middle;
+    align-content: center;
+    justify-content: center;
+}
+
+img{
+    height: 220px;
+    width: 180px;
+    padding: 2vh;
+}
